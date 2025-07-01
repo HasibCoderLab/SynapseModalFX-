@@ -1,6 +1,4 @@
-# Create the complete README.md content as a markdown file
 
-readme_content = """
 # 🧠 SynapseModalFX
 
 > **Smart minds create smart modals.**  
@@ -15,8 +13,6 @@ readme_content = """
 - **FX**: Short for "effects" — cool animations and interactivity!
 
 So, *SynapseModalFX* = Intelligent + Beautiful + Futuristic Modal System.  
-বাংলা ভাষায়:  
-> এটা এমন এক ওয়েবসাইট এলিমেন্ট যা খুলে গেলে coder-এর ব্রেইনের ঝলক! 😎
 
 ---
 
