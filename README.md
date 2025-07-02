@@ -53,7 +53,7 @@ SynapseModalFX/
 │   ├── Demo1.png
 │   └── Demo2.png
 ├── README.md
-└── favicon.ico (optional)
+└── favicon.jpeg
 ```
 
 
