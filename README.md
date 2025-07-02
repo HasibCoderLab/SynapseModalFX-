@@ -35,10 +35,12 @@ So, *SynapseModalFX* = Intelligent + Beautiful + Futuristic Modal System.
 
 ## 📸 Preview
 
-![Preview of SynapseModalFX](images//Demo1.png)
+![Preview of SynapseModalFX](images/demo1.png)
 
+⬇️ **Another View** ⬇️
 
-![Preview of SynapseModalFX](images//Demo2.png)
+![Preview of SynapseModalFX](images/demo2.png)
+
 
 
 ## 📂 File Structure
