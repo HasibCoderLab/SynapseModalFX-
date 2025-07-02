@@ -35,12 +35,11 @@ So, *SynapseModalFX* = Intelligent + Beautiful + Futuristic Modal System.
 
 ## 📸 Preview
 
-![Preview of SynapseModalFX](images/demo1.png)
+![Preview of SynapseModalFX](images/Demo1.png)
 
-⬇️ ⬇️
----
+⬇️ **Another View** ⬇️
 
-![Preview of SynapseModalFX](images/demo2.png)
+![Preview of SynapseModalFX](images/Demo2.png)
 
 
 
@@ -51,8 +50,8 @@ SynapseModalFX/
 ├── style.css
 ├── script.js
 ├── images/
-│   ├── demo1.png
-│   └── demo2.png
+│   ├── Demo1.png
+│   └── Demo2.png
 ├── README.md
 └── favicon.ico (optional)
 ```
